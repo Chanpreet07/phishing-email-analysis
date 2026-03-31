@@ -31,11 +31,6 @@ All experiments are **controlled and offline**, so no real users are affected.
 
 ---
 
-## 📝 Observations
-| Email Name | Sender | Subject | Suspicious Links | Pixel Detected |
-|-----------|--------|--------|-----------------|----------------|
-| phishing email |I-am-not-hacker@gmail.com | Verify Account | http://localhost:8000/login.html | Yes |
-
 ---
 ## Phishing e-mail recieved
 <img width="1920" height="1003" alt="phishing mail" src="https://github.com/user-attachments/assets/e26ac6a4-50dd-4115-bbb8-794548abc4f8" />
