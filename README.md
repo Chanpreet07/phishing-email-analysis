@@ -35,7 +35,7 @@ All experiments are **controlled and offline**, so no real users are affected.
 ## 📝 Observations
 | Email Name | Sender | Subject | Suspicious Links | Pixel Detected |
 |-----------|--------|--------|-----------------|----------------|
-| phishing email |I-am -not-hacker@gmail.com | Verify Account | http://localhost:8000/login.html | Yes |
+| phishing email |I-am-not-hacker@gmail.com | Verify Account | http://localhost:8000/login.html | Yes |
 
 ---
 ## Phishing e-mail recieved
