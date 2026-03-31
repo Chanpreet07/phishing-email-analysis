@@ -1,6 +1,7 @@
 
 # 🕵️‍♂️ Phishing Email Analysis Lab
 
+
 ## 📌 Overview
 This project demonstrates a **safe offline lab** for analyzing phishing emails.  
 All experiments are **controlled and offline**, so no real users are affected.
@@ -45,3 +46,29 @@ All experiments are **controlled and offline**, so no real users are affected.
 ## Investigating the headers , trying to gather information about the sender and investigatinf the links   
 <img width="1920" height="1003" alt="phising 3" src="https://github.com/user-attachments/assets/87e54c6e-bd06-4b32-a0db-49e5e167a765" />
 
+
+##1️⃣ emails/phishing email
+
+<html>
+<body>
+<h2>Account Verification Required</h2>
+<p>Click the link below to verify your account:</p>
+<a href="http://localhost:8000/login.html">Verify Account</a>
+<img src="http://localhost:8000/tracking_pixel.png" width="1" height="1" alt="">
+</body>
+</html>
+
+
+
+2️⃣ ## landing_pages/login.html
+<html>
+<body>
+<h2>Fake Login Page</h2>
+<p>This is a safe offline test page.</p>
+<form>
+<input type="text" placeholder="Username"><br>
+<input type="password" placeholder="Password"><br>
+<button>Login</button>
+</form>
+</body>
+</html>
