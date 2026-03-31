@@ -23,7 +23,7 @@ All experiments are **controlled and offline**, so no real users are affected.
 ---
 
 ## 📧 Email Analysis
-- Open `.eml` or `.html` files in Thunderbird.  
+- Open Email in Thunderbird.  
 - Check **headers** for sender information, subject, and routing.  
 - Analyze **links and HTML content** for suspicious elements.  
 - Simulate **tracking pixels** in emails using offline images.  
