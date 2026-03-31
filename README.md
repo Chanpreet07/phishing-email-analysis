@@ -47,28 +47,13 @@ All experiments are **controlled and offline**, so no real users are affected.
 <img width="1920" height="1003" alt="phising 3" src="https://github.com/user-attachments/assets/87e54c6e-bd06-4b32-a0db-49e5e167a765" />
 
 
-##1️⃣ emails/phishing email
+# Email Analysis Notes
 
-<html>
-<body>
-<h2>Account Verification Required</h2>
-<p>Click the link below to verify your account:</p>
-<a href="http://localhost:8000/login.html">Verify Account</a>
-<img src="http://localhost:8000/tracking_pixel.png" width="1" height="1" alt="">
-</body>
-</html>
+## Email: phishing email
 
+- **Sender:** I-am-not-hacker@gmail.com
+- **Subject:** Account Verification Required
+- **Suspicious Links:** http://localhost:8000/login.html
+- **Tracking Pixel:** Yes
+- **Observations:** The email contains a hidden tracking pixel and a link to a fake login page. Safe offline simulation shows expected behavior.
 
-
-2️⃣ ## landing_pages/login.html
-<html>
-<body>
-<h2>Fake Login Page</h2>
-<p>This is a safe offline test page.</p>
-<form>
-<input type="text" placeholder="Username"><br>
-<input type="password" placeholder="Password"><br>
-<button>Login</button>
-</form>
-</body>
-</html>
