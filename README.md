@@ -1,4 +1,4 @@
-# phishing-email-analysis
+# Phishing-email-analysis
 Offline phishing analysis using Thunderbird 
 # Offline Phishing Lab
 
@@ -15,7 +15,7 @@ Here is an example of an email opened in Thunderbird:
 # ** The email shows emergency which is odd and looks suspicious **
 <img width="1920" height="1003" alt="phising 2" src="https://github.com/user-attachments/assets/6e856ccf-791a-4137-a15e-c39a1c1edb98" />
 
-#** Checking the headers and trying to gain some information on who is the sender and the html script **
+# ** Checking the headers and trying to gain some information on who is the sender and the html script **
 <img width="1920" height="1003" alt="phising 3" src="https://github.com/user-attachments/assets/f66ca208-2b15-4ec6-b0df-15afceddfb1b" />
 
 
