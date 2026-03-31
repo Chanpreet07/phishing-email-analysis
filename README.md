@@ -1,6 +1,4 @@
-# Phishing-email-analysis
-Offline phishing analysis using Thunderbird 
-# Offline Phishing Lab
+
 # 🕵️‍♂️ Phishing Email Analysis Lab
 
 ## 📌 Overview
